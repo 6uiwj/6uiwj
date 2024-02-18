@@ -26,8 +26,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> :v: Follow Me :v: </h3>
-  <a href="https://blog.naver.com/devming"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/devming"/></a>&nbsp
   <a href="https://6uiwj.notion.site/MinG-b35afb92959e49c0867d5623fcd860cf?pvs=4)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://6uiwj.notion.site/MinG-b35afb92959e49c0867d5623fcd860cf?pvs=4)"/></a>&nbsp
+  <a href="https://blog.naver.com/devming"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/devming"/></a>&nbsp
 
 
 
