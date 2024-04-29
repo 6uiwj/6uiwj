@@ -11,7 +11,6 @@
 :sparkles: My Project :sparkles:
   
 [RAD BANK](https://github.com/6uiwj/bookingsystem) <br>
-[HelloWorld](https://github.com/6uiwj/HelloWorld)
 
 <br>
 <br>
