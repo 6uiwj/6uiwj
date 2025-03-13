@@ -36,3 +36,7 @@
   <a href="https://6uiw.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff6803?style=for-the-badge&logo=Tistory&logoColor=white" width="75">
 
 
+[![6uiwj's GitHub stats](https://github-readme-stats.vercel.app/api?username=6uiwj)](https://github.com/6uiwj/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oterges)](https://solved.ac/oterges/)
+
