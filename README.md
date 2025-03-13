@@ -34,9 +34,14 @@
   <a href="https://6uiwj.notion.site/ABOUT-ME-1840ca44d41280639904d4d90d6bae2b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://6uiwj.notion.site/ABOUT-ME-1840ca44d41280639904d4d90d6bae2b?pvs=4"/></a>&nbsp
   <a href="https://blog.naver.com/devming"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/devming"/></a>&nbsp
   <a href="https://6uiw.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff6803?style=for-the-badge&logo=Tistory&logoColor=white" width="75">
+  </a>
+  <br>
+  <br>
+
+[![6uiwj's GitHub stats](https://github-readme-stats.vercel.app/api?username=6uiwj&show_icons=true&theme=tokyonight)](https://github.com/6uiwj/github-readme-stats)
 
 
-[![6uiwj's GitHub stats](https://github-readme-stats.vercel.app/api?username=6uiwj)](https://github.com/6uiwj/github-readme-stats)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oterges)](https://solved.ac/oterges/)
 
