@@ -19,11 +19,12 @@
 </h3>
 
 
-<img src="https://img.shields.io/badge/JAVA-0084d1?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/SRPING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/> <img src="https://img.shields.io/badge/SRPINGBOOT-6DB33F?style=flat-square&logo=SPRING BOOT&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JAVA-0084d1?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/SRPING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
+<img src="https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=#2496ED"/> 
 <br><br>
 
 
