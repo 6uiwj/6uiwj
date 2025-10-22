@@ -10,6 +10,12 @@
 <br>
 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADEF&width=435&lines=Welcome+to+my+GitHub!+I'm+Ming+:)" alt="Typing SVG" />
+</p>
+
+
+
 <h2>Skills I'm studying</h2>
 </h3>
 <br/>
