@@ -28,7 +28,7 @@
 <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<h3> :v: Follow Me :v: </h3>
   <!--<a href="https://6uiwj.notion.site/ABOUT-ME-1840ca44d41280639904d4d90d6bae2b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://6uiwj.notion.site/ABOUT-ME-1840ca44d41280639904d4d90d6bae2b?pvs=4"/></a>-nbsp -->
