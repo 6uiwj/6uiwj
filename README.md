@@ -4,20 +4,18 @@
 
 
 <div align="center">
-<h3>  Welcome to my GitHub!  
 <br>
 <br>
 <br>
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADEF&width=435&lines=Welcome+to+my+GitHub!+I'm+Ming+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f54597&width=435&lines=Welcome+to+my+GitHub!+I'm+Ming+:)" alt="Typing SVG" />
 </p>
 
 
 
-<h2>Skills I'm studying</h2>
-</h3>
+<h3>Skills I'm studying 🛠️</h3>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,23 +27,26 @@
 <img src="https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=#2496ED"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
+<br/><br/>
 
-
-<br><br>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj&theme=radical&layout=compact" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=6uiwj&show_icons=true&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj&theme=radical&layout=compact&card_width=340" 
+      alt="Top Languages"
+      height="160"
+      style="margin-right: 10px;"
+    />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=6uiwj&show_icons=true&theme=tokyonight&line_height=25" 
+      alt="GitHub Stats"
+      height="160"
+    />
+  </a>
+</div>
 
 
 <!--
