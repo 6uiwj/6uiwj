@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f54597&width=435&lines=Welcome+to+my+GitHub!+I'm+Ming+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f54597&width=400&lines=Welcome+to+my+GitHub!+I'm+Ming+:)" alt="Typing SVG" />
 </p>
 
 
@@ -47,7 +47,11 @@
     />
   </a>
 </div>
+<br/>
 
+<p align="center">
+  <em> "Success consists of going from failure to failure without loss of enthusiasm"</em>
+</p>
 
 <!--
 
