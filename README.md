@@ -30,15 +30,20 @@
 <br/><br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj&theme=radical&layout=compact&card_width=340" 
       alt="Top Languages"
       height="160"
       style="margin-right: 10px;"
     />
-  </a>
+  </a> -->
   
+  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6uiwj&theme=transparent)
+
+
+﻿
+
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
