@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=#2496ED"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
-<br/><br/>
 
 <div align="center">
 <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,19 +41,14 @@
   ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6uiwj&theme=transparent)
 
 
-﻿
-
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=6uiwj&show_icons=true&theme=tokyonight&line_height=25" 
       alt="GitHub Stats"
       height="160"
     />
-  </a>
+  </a> -->
 </div>
-<br/>
-
 <p align="center">
   <em> "Success consists of going from failure to failure without loss of enthusiasm"</em>
 </p>
