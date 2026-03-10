@@ -19,7 +19,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,docker,aws,jenkins,redis,mysql,kafka" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,docker,aws,jenkins,redis,mysql,kafka" />
   </a>
 </p>
 
@@ -48,7 +48,31 @@
       height="160"
     />
   </a> -->
-</div>
+
+
+<h3>🚀 프로젝트</h3>
+
+| 프로젝트 | 기술 스택 | 링크 |
+|---|---|---|
+| MSA 백엔드 C2C 온라인 쇼핑 플랫폼 | Java, Spring, MSA | <a href="https://github.com/sharedeffort/high-tension">GitHub</a> |
+| MSA 백엔드 물류 관리 및 배송 시스템 플랫폼 | Java, Spring, MSA | <a href="https://github.com/sharedeffort/high-tension">GitHub</a> |
+| 백엔드 배달 주문 관리 플랫폼 | Java, SpringBoot, DDD | <a href="https://github.com/6uiwj/delivery-app">GitHub</a> |
+| 풀스택 헌혈의 집 예약 시스템 | Java, HTML, CSS, JS | <a href="https://github.com/6uiwj/bookingsystem">GitHub</a> |
+
+<br/>
+
+<h3>🧩 개인 미니 프로젝트</h3>
+
+| 프로젝트 | 기술 스택 | 링크 |
+|---|---|---|
+| 영단어 퀴즈 프로그램 | Java, JS | <a href="https://github.com/6uiwj/VocaQuiz">GitHub</a> |
+| Spring AI RAG ChatBot (~ing) | Kotlin | <a href="https://github.com/6uiwj/VocaQuiz">GitHub</a> |
+
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 <p align="center">
   <em> "Success consists of going from failure to failure without loss of enthusiasm"</em>
 </p>
