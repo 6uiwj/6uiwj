@@ -55,7 +55,7 @@
 | 프로젝트 | 기술 스택 | 링크 |
 |---|---|---|
 | MSA 백엔드 C2C 온라인 쇼핑 플랫폼 | Java, Spring, MSA | <a href="https://github.com/sharedeffort/high-tension">GitHub</a> |
-| MSA 백엔드 물류 관리 및 배송 시스템 플랫폼 | Java, Spring, MSA | <a href="https://github.com/sharedeffort/high-tension">GitHub</a> |
+| MSA 백엔드 물류 관리 및 배송 시스템 플랫폼 | Java, Spring, MSA | <a href="https://github.com/ElevenHub">GitHub</a> |
 | 백엔드 배달 주문 관리 플랫폼 | Java, SpringBoot, DDD | <a href="https://github.com/6uiwj/delivery-app">GitHub</a> |
 | 풀스택 헌혈의 집 예약 시스템 | Java, HTML, CSS, JS | <a href="https://github.com/6uiwj/bookingsystem">GitHub</a> |
 
