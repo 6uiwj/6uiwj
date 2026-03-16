@@ -66,7 +66,7 @@
 | 프로젝트 | 기술 스택 | 링크 |
 |---|---|---|
 | 영단어 퀴즈 프로그램 | Java, JS | <a href="https://github.com/6uiwj/VocaQuiz">GitHub</a> |
-| Spring AI RAG ChatBot (~ing) | Kotlin | <a href="https://github.com/6uiwj/SpringAIRAGChatBot">GitHub</a> |
+| Spring AI RAG ChatBot | Kotlin | <a href="https://github.com/6uiwj/SpringAIRAGChatBot">GitHub</a> |
 
 
   <br/>
