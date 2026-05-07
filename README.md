@@ -67,6 +67,10 @@
 |---|---|---|
 | 영단어 퀴즈 프로그램 | Java, JS | <a href="https://github.com/6uiwj/VocaQuiz">GitHub</a> |
 | Spring AI RAG ChatBot | Kotlin | <a href="https://github.com/6uiwj/SpringAIRAGChatBot">GitHub</a> |
+<br/>
+
+[![LevelUp Tree](https://leveluptree.vercel.app/api/tree?username=6uiwj)](https://leveluptree.vercel.app)
+
 
 
   <br/>
@@ -76,6 +80,8 @@
 <p align="center">
   <em> "Success consists of going from failure to failure without loss of enthusiasm"</em>
 </p>
+
+
 
 <!--
 
